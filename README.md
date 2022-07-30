@@ -11,7 +11,7 @@
 
 
 ```diff
-🐱‍👤 Developer c++ , lua , js , html , sql , php , java
+🐱‍👤 Developer c++ , lua , js , html 
 
 ```
 
